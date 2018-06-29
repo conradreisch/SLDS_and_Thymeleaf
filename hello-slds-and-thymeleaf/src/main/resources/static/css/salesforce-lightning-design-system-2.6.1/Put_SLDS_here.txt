@@ -1,0 +1,6 @@
+Download SLDS zip and extract it to this folder:
+
+https://www.lightningdesignsystem.com/assets/downloads/salesforce-lightning-design-system-static-resource-2.6.1.zip
+
+---
+https://www.lightningdesignsystem.com/downloads/
